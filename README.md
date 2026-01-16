@@ -1,25 +1,100 @@
-🐞 AI Bug Hunter
-🚀 Overview
+## 🐞 AI Bug Hunter
 
-AI Bug Hunter is an intelligent tool designed to automatically scan Python projects and detect potential bugs, bad practices, and incomplete code segments.
-It helps developers maintain clean, production-ready code by identifying issues early.
+## 📌 Project Overview
+AI Bug Hunter is an intelligent static code analysis tool designed to automatically scan Python projects and identify potential bugs, bad coding practices, and incomplete implementations. The tool helps developers catch issues early in the development cycle and improve overall code quality.
 
-🧠 Features
+It analyzes entire project folders, inspects Python files, and reports common problems that can lead to runtime errors or maintainability issues.
 
-🔍 Scans entire folders for .py files.
+---
 
-⚙️ Detects:
+##  Features
+-  Scans entire directories for `.py` files  
+-  Detects common issues such as:
+  - Debug print statements
+  - TODO / FIXME comments
+  - Missing error handling (try–except blocks)
+  - Unused imports
+  - Possible syntax errors
+-  Optional integration with JIRA API to create bug tickets automatically  
+-  Modular architecture with separate agents for scanning, analysis, and reporting  
 
-Debug print statements
+---
 
-TODO / FIXME comments
+##  Technology Stack
+- **Programming Language:** Python  
+- **Concepts Used:**  
+  - Static code analysis  
+  - File system traversal  
+  - Pattern matching  
+  - Modular design  
 
-Missing error handling (try-except)
+---
 
-Unused imports
+---
 
-Possible syntax errors
+## 📊 Output
+- Console-based bug and warning reports  
+- Optional automated JIRA ticket creation for detected issues  
 
-🪄 Can integrate with JIRA API to automatically create bug tickets.
+---
 
-🧰 Modular structure with agents for scanning, analyzing, and reporting.
+## 🎯 Use Cases
+- Code quality checks before deployment  
+- Early bug detection during development  
+- Learning static code analysis techniques  
+- Automating bug tracking workflows  
+
+---
+
+## 📚 Learning Outcomes
+- Understanding static analysis concepts  
+- Writing modular and extensible Python tools  
+- Improving code quality and maintainability  
+- Integrating developer tools with issue trackers  
+
+---
+
+## 🔮 Future Enhancements
+- AI-based severity scoring  
+- Support for more programming languages  
+- Web-based dashboard  
+- CI/CD pipeline integration  
+
+---
+
+##  License
+This project is free and open-source.
+
+---
+
+##  Output
+- Console-based bug and warning reports  
+- Optional automated JIRA ticket creation for detected issues  
+
+---
+
+##  Use Cases
+- Code quality checks before deployment  
+- Early bug detection during development  
+- Learning static code analysis techniques  
+- Automating bug tracking workflows  
+
+---
+
+##  Learning Outcomes
+- Understanding static analysis concepts  
+- Writing modular and extensible Python tools  
+- Improving code quality and maintainability  
+- Integrating developer tools with issue trackers  
+
+---
+
+##  Future Enhancements
+- AI-based severity scoring  
+- Support for more programming languages  
+- Web-based dashboard  
+- CI/CD pipeline integration  
+
+---
+
+
