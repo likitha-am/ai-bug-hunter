@@ -1,11 +1,11 @@
-## 🐞 AI Bug Hunter
+##  AI Bug Hunter
 
-## 📌 Project Overview
+##  Project Overview
 AI Bug Hunter is an intelligent static code analysis tool designed to automatically scan Python projects and identify potential bugs, bad coding practices, and incomplete implementations. The tool helps developers catch issues early in the development cycle and improve overall code quality.
 
 It analyzes entire project folders, inspects Python files, and reports common problems that can lead to runtime errors or maintainability issues.
 
----
+
 
 ##  Features
 -  Scans entire directories for `.py` files  
@@ -18,7 +18,7 @@ It analyzes entire project folders, inspects Python files, and reports common pr
 -  Optional integration with JIRA API to create bug tickets automatically  
 -  Modular architecture with separate agents for scanning, analysis, and reporting  
 
----
+
 
 ##  Technology Stack
 - **Programming Language:** Python  
@@ -28,33 +28,26 @@ It analyzes entire project folders, inspects Python files, and reports common pr
   - Pattern matching  
   - Modular design  
 
----
 
----
-
-## 📊 Output
+##  Output
 - Console-based bug and warning reports  
 - Optional automated JIRA ticket creation for detected issues  
 
----
 
-## 🎯 Use Cases
+
+##  Use Cases
 - Code quality checks before deployment  
 - Early bug detection during development  
 - Learning static code analysis techniques  
 - Automating bug tracking workflows  
 
----
-
-## 📚 Learning Outcomes
+##  Learning Outcomes
 - Understanding static analysis concepts  
 - Writing modular and extensible Python tools  
 - Improving code quality and maintainability  
 - Integrating developer tools with issue trackers  
 
----
-
-## 🔮 Future Enhancements
+##  Future Enhancements
 - AI-based severity scoring  
 - Support for more programming languages  
 - Web-based dashboard  
@@ -65,15 +58,12 @@ It analyzes entire project folders, inspects Python files, and reports common pr
 - Console-based bug and warning reports  
 - Optional automated JIRA ticket creation for detected issues  
 
----
-
 ##  Use Cases
 - Code quality checks before deployment  
 - Early bug detection during development  
 - Learning static code analysis techniques  
 - Automating bug tracking workflows  
 
----
 
 ##  Learning Outcomes
 - Understanding static analysis concepts  
@@ -81,7 +71,6 @@ It analyzes entire project folders, inspects Python files, and reports common pr
 - Improving code quality and maintainability  
 - Integrating developer tools with issue trackers  
 
----
 
 ##  Future Enhancements
 - AI-based severity scoring  
