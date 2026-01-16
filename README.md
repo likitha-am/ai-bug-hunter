@@ -60,12 +60,6 @@ It analyzes entire project folders, inspects Python files, and reports common pr
 - Web-based dashboard  
 - CI/CD pipeline integration  
 
----
-
-##  License
-This project is free and open-source.
-
----
 
 ##  Output
 - Console-based bug and warning reports  
